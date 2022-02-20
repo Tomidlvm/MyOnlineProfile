@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Manrope', sans-serif;
+}
+
+h1{
+  color: #1572A1;
+  margin: 20px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 4em;
+}
+
+h2 {
+  color: #1572A1;
+  font-family: 'Shizuru', cursive;
+  font-size: 1.5em;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #1572A1;
+  border-width: 5px;
+  width: 10%;
+}
+
+.top-container{
+  background-color: #F7ECDE;
+  padding: 10px;
+}
+
+.middle-container {
+  background-color: #FBF8F1;
+  padding-top: 10px;
+}
+
+.bottom-container {
+  background-color: #E9DAC1;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 20px auto 75px auto;
+  text-align: left;
+}
+
+.contact-me {
+  padding-bottom: 30px;
+}
+
+.profile {
+  width: 40%;
+  margin: auto;
+}
+
+.computer1img {
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+}
+
+.computer2img {
+  width: 20%;
+  float: right;
+  margin-right: 20px;
+}
+
+.getintouch {
+  text-align: center;
+  font-family: 'Manrope', sans-serif;
+}
+
+.code1{
+  position: absolute;
+  right: 320px;
+  top: 60px;
+  width: 10%;
+}
+
+.code2 {
+  position: absolute;
+  top: 60px;
+  left: 320px;
+  width: 11%;
+}
+
+.btn {
+  background: #1572A1;
+  background-image: -webkit-linear-gradient(top, #1572A1, #1572A1);
+  background-image: -moz-linear-gradient(top, #1572A1, #1572A1);
+  background-image: -ms-linear-gradient(top, #1572A1, #1572A1);
+  background-image: -o-linear-gradient(top, #1572A1, #1572A1);
+  background-image: linear-gradient(to bottom, #1572A1, #1572A1);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #fcfeff;
+  font-size: 20px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+a {
+  color: #1572A1;
+  font-family: 'Manrope', sans-serif;
+  text-decoration: none;
+}
